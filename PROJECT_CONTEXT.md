@@ -17,6 +17,15 @@
 - Não pedir novamente informações que já estejam disponíveis no projeto, no repositório ou nas conversas deste Projeto.
 - Após cada alteração, validar o build, confirmar o deployment da Vercel e testar o site público.
 
+## Escolha de publicação para sites novos
+
+- Sempre que o usuário pedir para criar um site novo, perguntar antes da publicação qual caminho ele prefere:
+  1. **GitHub + Vercel** — código versionado no GitHub e publicação automática pela Vercel.
+  2. **ChatGPT Sites** — site mantido e publicado diretamente no ChatGPT Sites.
+- Não presumir que todo site novo deve ir para GitHub + Vercel.
+- Os sites e sistemas da **VIEMAR** devem permanecer no **ChatGPT Sites**, salvo se o usuário pedir explicitamente uma migração.
+- O site **Camila Pereira Beauty** permanece no fluxo **GitHub + Vercel**.
+
 ## Observações
 
 - Atualizações do site existente não exigem recriar GitHub, integração ou projeto Vercel.
