@@ -102,7 +102,7 @@ export default function Home() {
         <div className="hero-visual">
           <div className="hero-frame">
             <Image
-              src="https://camilapereirabeauty.ruanwildner123.chatgpt.site/images/camila-hero.webp"
+              src="/images/camila-hero.webp"
               alt="Camila Pereira, especialista em cílios e sobrancelhas"
               width={1086}
               height={1448}
@@ -198,7 +198,7 @@ export default function Home() {
       <section id="sobre" className="about section-shell">
         <div className="about-art" aria-hidden="true">
           <Image
-            src="https://camilapereirabeauty.ruanwildner123.chatgpt.site/images/brand-botanicals.jpg"
+            src="/images/brand-botanicals.jpg"
             alt=""
             fill
             sizes="(max-width: 820px) 100vw, 44vw"
@@ -277,7 +277,7 @@ export default function Home() {
         </div>
         <div className="location-image">
           <Image
-            src="https://camilapereirabeauty.ruanwildner123.chatgpt.site/images/location-coffee.webp"
+            src="/images/location-coffee.webp"
             alt="Café com flores em uma composição acolhedora"
             fill
             style={{ objectFit: "contain" }}
@@ -312,7 +312,7 @@ export default function Home() {
         <div className="mentoring-visual">
           <span className="mentor-orbit" aria-hidden="true" />
           <Image
-            src="https://camilapereirabeauty.ruanwildner123.chatgpt.site/images/mentorship.png"
+            src="/images/mentorship.png"
             alt="Material visual da mentoria Camila Pereira Beauty"
             width={640}
             height={800}
